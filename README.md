@@ -12,6 +12,5 @@ Python3
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [youtube.com](http://youtube.com)
 * [github.com](http://github.com)
